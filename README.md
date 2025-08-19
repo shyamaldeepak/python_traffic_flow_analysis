@@ -1,4 +1,6 @@
 # python_traffic_flow_analysis
+🚀 How It Works Input Video → https://youtu.be/MNn9qKG2UFI?si=2Ri4dRrgg_aj5egb
+
 A comprehensive toolkit for traffic flow analysis and visualization in Python. This project leverages libraries like OpenCV, NumPy, and pandas to process video feeds, perform vehicle detection, and compute metrics such as flow rate and density. Ideal for transportation studies and smart city applications.
 This version is structured for clarity and readability, making it easy for visitors to quickly understand your project's value.
 
